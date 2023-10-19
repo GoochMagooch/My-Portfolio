@@ -23,3 +23,10 @@ li {
 .picture-div {
     height: 150px;
 }
+
+.round-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+}
