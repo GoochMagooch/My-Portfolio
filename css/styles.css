@@ -34,3 +34,8 @@ li {
 #about-me {
     margin: 0 50px;
 }
+
+#top-bottom-divider {
+    width: 100%;
+    height: 2px;
+}
