@@ -39,3 +39,7 @@ li {
     width: 100%;
     height: 2px;
 }
+
+footer p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
