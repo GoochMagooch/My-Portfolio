@@ -32,7 +32,13 @@ li {
 }
 
 #about-me {
-    margin: 0 50px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 25px;
+}
+
+.about-me-para {
+    margin-right: 15px;
 }
 
 #top-bottom-divider {
