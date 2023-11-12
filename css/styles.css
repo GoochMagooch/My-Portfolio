@@ -46,6 +46,10 @@ li {
     height: 2px;
 }
 
+.project-span {
+    font-size: 12px;
+}
+
 footer p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
