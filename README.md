@@ -5,3 +5,8 @@ older looking list of my projects. Again still trying to combine some modern web
 
 For "Project One - Calculator...", make it to where there's a link that can be clicked on
 and when it's clicked on, the calculator pops out, ready to use...
+
+To Do List:
+Convert FizzBuzz to functional app, from console program
+Convert rock paper scissors to functional app
+debug Absurdity
